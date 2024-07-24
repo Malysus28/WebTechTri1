@@ -1,0 +1,31 @@
+.logo{
+    float: none;
+    text-align: center;
+}
+.navbar li {
+    float: none;
+    text-align: center;
+    padding: 7px;
+    border-bottom: #444 dotted 1px;
+}
+.navbar ul{
+    float: none;
+    text-align: center;
+}
+
+.btn-pink{
+    width: 60%;
+}
+
+.content {
+    width: 80%;
+}
+
+.productview img{
+    width: 95%;
+    padding: 10px;
+    display: block;
+}
+#medqtxt{
+    padding: 20px;
+}
